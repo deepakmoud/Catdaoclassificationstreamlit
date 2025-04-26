@@ -25,8 +25,8 @@ html_temp = """
    <div class="" style="background-color:blue;" >
    <div class="clearfix">           
    <div class="col-md-12">
-   <center><p style="font-size:40px;color:white;margin-top:10px;">Vepsun Technologies</p></center> 
-   <center><p style="font-size:30px;color:white;margin-top:10px;">Session on CNN </p></center> 
+   <center><p style="font-size:40px;color:white;margin-top:10px;">Classification</p></center> 
+   <center><p style="font-size:30px;color:white;margin-top:10px;"> CNN </p></center> 
    </div>
    </div>
    </div>
