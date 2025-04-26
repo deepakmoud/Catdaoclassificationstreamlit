@@ -16,7 +16,7 @@ import os
 from werkzeug.utils import secure_filename
 from keras.preprocessing import image
 from keras.applications.vgg16 import preprocess_input
-st.set_option('deprecation.showfileUploaderEncoding', False)
+#st.set_option('deprecation.showfileUploaderEncoding', False)
 # Loading saved model from Drive.
 from keras.models import load_model
 model = load_model('FDPCNN1.h5')
